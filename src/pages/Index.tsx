@@ -17,9 +17,9 @@ import Image3 from "@/Assets/image3.jpg";
 import Image4 from "@/Assets/image4.jpg";
 import Image5 from "@/Assets/image9.jpg";
 import Image6 from "@/Assets/image6.jpg";
-import Why1 from "@/Assets/Why1.jpg";
-import Why2 from "@/Assets/Why2.jpg";
-import Why3 from "@/Assets/Why3.jpg";
+import Why1 from "@/Assets/why1.jpg";
+import Why2 from "@/Assets/why2.jpg";
+import Why3 from "@/Assets/why3.jpg";
 // Mock data for featured tours
 const featuredTours = [
   {
