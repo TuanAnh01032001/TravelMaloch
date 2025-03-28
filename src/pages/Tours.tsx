@@ -10,6 +10,13 @@ import { Slider } from "@/components/ui/slider";
 import { Checkbox } from "@/components/ui/checkbox";
 import { Dialog, DialogContent, DialogTrigger } from "@/components/ui/dialog";
 
+//pmport image,video
+import Image1 from "@/Assets/image4.jpg";
+import Image2 from "@/Assets/image5.jpg";
+import Image3 from "@/Assets/image6.jpg";
+import Image4 from "@/Assets/image7.jpg";
+import Image5 from "@/Assets/image9.jpg";
+import Image6 from "@/Assets/image8.jpg";
 // Mock data for tours
 const allTours = [
   {
@@ -20,7 +27,7 @@ const allTours = [
     duration: "7 days",
     rating: 4.9,
     reviews: 127,
-    image: "https://images.unsplash.com/photo-1527004013197-933c4bb611b3?q=80&w=1074&auto=format&fit=crop",
+    image: Image1,
     type: "Adventure",
     difficulty: "Moderate"
   },
@@ -32,7 +39,7 @@ const allTours = [
     duration: "5 days",
     rating: 4.8,
     reviews: 95,
-    image: "https://images.unsplash.com/photo-1548123378-bde4eca81d2d?q=80&w=1035&auto=format&fit=crop",
+    image: Image2,
     type: "Cultural",
     difficulty: "Easy"
   },
@@ -44,7 +51,7 @@ const allTours = [
     duration: "10 days",
     rating: 4.9,
     reviews: 214,
-    image: "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?q=80&w=1035&auto=format&fit=crop",
+    image: Image3,
     type: "Cruise",
     difficulty: "Easy"
   },
@@ -56,7 +63,7 @@ const allTours = [
     duration: "8 days",
     rating: 4.7,
     reviews: 89,
-    image: "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?q=80&w=1171&auto=format&fit=crop",
+    image: Image4,
     type: "Wildlife",
     difficulty: "Moderate"
   },
@@ -68,7 +75,7 @@ const allTours = [
     duration: "6 days",
     rating: 4.8,
     reviews: 152,
-    image: "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=1170&auto=format&fit=crop",
+    image: Image5,
     type: "Culinary",
     difficulty: "Easy"
   },
@@ -80,7 +87,7 @@ const allTours = [
     duration: "9 days",
     rating: 4.9,
     reviews: 76,
-    image: "https://images.unsplash.com/photo-1520769457690-5e1f2c2c1786?q=80&w=1035&auto=format&fit=crop",
+    image: Image6,
     type: "Nature",
     difficulty: "Moderate"
   },

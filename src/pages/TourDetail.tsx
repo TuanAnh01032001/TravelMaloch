@@ -35,9 +35,7 @@ import Image3 from "@/Assets/image6.jpg";
 import Image4 from "@/Assets/image7.jpg";
 import Image5 from "@/Assets/image9.jpg";
 import Image6 from "@/Assets/image8.jpg";
-import Why1 from "@/Assets/Why1.jpg";
-import Why2 from "@/Assets/Why2.jpg";
-import Why3 from "@/Assets/Why3.jpg";
+
 // Mock data for a single tour
 const tourData = {
   id: "tour-1",
